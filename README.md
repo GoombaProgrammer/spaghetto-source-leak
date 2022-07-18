@@ -1,3 +1,5 @@
+unmodified leak, not even readme was modigied
+
 # Spaghetto
 Spaghetto is a simple interpreted language with an interpreter written in C#
 
